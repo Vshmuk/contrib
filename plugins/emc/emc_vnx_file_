@@ -10,6 +10,7 @@
 =head1 AUTHOR
 
  Evgeny Beysembaev <megabotva@gmail.com>
+ sumpfralle@Github
 
 =head1 LICENSE
 
@@ -131,6 +132,8 @@
  17.11.2016 - NFSv4 support, Memory section
  16.12.2016 - Merged "NFS" and "Datamover Stats" plugins
  26.12.2016 - Compatibility with Munin coding style
+ 06.02.2017 - Final release
+
 
 =cut
 

@@ -10,6 +10,7 @@
 =head1 AUTHOR
 
  Evgeny Beysembaev <megabotva@gmail.com>
+ sumpfralle@Github
 
 =head1 LICENSE
 
@@ -139,6 +140,7 @@
 
  09.11.2016 - First Release
  26.12.2016 - Compatibility with Munin coding style
+ 06.02.2017 - Final release
 
 =cut
 
